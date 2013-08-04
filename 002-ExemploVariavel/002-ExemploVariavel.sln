@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "002-ExemploVariavel", "002-ExemploVariavel\002-ExemploVariavel.dtproj", "{746CC161-96D3-4BB1-9A09-EFD41B2684E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{746CC161-96D3-4BB1-9A09-EFD41B2684E5}.Development|Default.ActiveCfg = Development
+		{746CC161-96D3-4BB1-9A09-EFD41B2684E5}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

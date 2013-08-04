@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "004-ExemploDerivedColumn", "004-ExemploDerivedColumn\004-ExemploDerivedColumn.dtproj", "{53E1D75B-E862-4726-A1A4-4A2E9EEF9386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E1D75B-E862-4726-A1A4-4A2E9EEF9386}.Development|Default.ActiveCfg = Development
+		{53E1D75B-E862-4726-A1A4-4A2E9EEF9386}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

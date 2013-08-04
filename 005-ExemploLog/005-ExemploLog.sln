@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "005-ExemploLog", "005-ExemploLog\005-ExemploLog.dtproj", "{F2EE22B2-7F61-48F7-A7A0-29C337C8AB42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2EE22B2-7F61-48F7-A7A0-29C337C8AB42}.Development|Default.ActiveCfg = Development
+		{F2EE22B2-7F61-48F7-A7A0-29C337C8AB42}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "004-ExemploLookup", "004-ExemploLookup\004-ExemploLookup.dtproj", "{5B3BD676-26D0-455F-81ED-D8B5E6180313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B3BD676-26D0-455F-81ED-D8B5E6180313}.Development|Default.ActiveCfg = Development
+		{5B3BD676-26D0-455F-81ED-D8B5E6180313}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

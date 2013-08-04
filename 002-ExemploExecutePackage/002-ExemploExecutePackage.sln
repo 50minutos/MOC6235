@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "002-ExemploExecutePackage", "002-ExemploExecutePackage\002-ExemploExecutePackage.dtproj", "{D75B6E5F-8FEE-4B91-A5F3-6E4E94CCD288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D75B6E5F-8FEE-4B91-A5F3-6E4E94CCD288}.Development|Default.ActiveCfg = Development
+		{D75B6E5F-8FEE-4B91-A5F3-6E4E94CCD288}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

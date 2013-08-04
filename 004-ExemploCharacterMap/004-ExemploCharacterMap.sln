@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "004-ExemploCharacterMap", "004-ExemploCharacterMap\004-ExemploCharacterMap.dtproj", "{DD501AA9-B6DD-45DF-A103-D5349879F589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD501AA9-B6DD-45DF-A103-D5349879F589}.Development|Default.ActiveCfg = Development
+		{DD501AA9-B6DD-45DF-A103-D5349879F589}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
